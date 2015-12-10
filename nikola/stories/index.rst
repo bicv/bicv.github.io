@@ -3,7 +3,8 @@
 .. date: 2015-12-10 11:08:19 UTC+01:00
 .. tags:
 .. link:
-.. description: Fake Site version 1, welcome page!
+.. description: Welcome page!
+.. thumbnail:: ./images/bicv_banner.jpg
 
 A Wiley VCH book, edited by G. Cristóbal, L. Perrinet and M. Keil
 
