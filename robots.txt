@@ -1,0 +1,4 @@
+Sitemap: http://bicv.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: bicv.github.io
