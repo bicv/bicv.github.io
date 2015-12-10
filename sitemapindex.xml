@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://bicv.github.io/galleries/rss.xml</loc>
-  <lastmod>2015-12-10T10:43:00Z</lastmod>
+  <lastmod>2015-12-10T10:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://bicv.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>http://bicv.github.io/sitemap.xml</loc>
-  <lastmod>2015-12-10T10:43:00Z</lastmod>
+  <lastmod>2015-12-10T10:47:00Z</lastmod>
  </sitemap>
 </sitemapindex>

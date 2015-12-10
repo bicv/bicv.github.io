@@ -34,7 +34,8 @@
             <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="http://bicv.github.io/">
-                <img src="galleries/bicv_banner.jpg" alt="Biologically Inspired Computer Vision" id="logo"><span id="blog-title">Biologically Inspired Computer Vision</span>
+
+                <span id="blog-title">Biologically Inspired Computer Vision</span>
             </a>
         </div>
 <!-- /.navbar-header -->
@@ -69,12 +70,6 @@
 </ul></nav><h1>galleries</h1>
 
 <div id="gallery_container"></div>
-<noscript>
-<ul class="thumbnails"><li>
-<a href="bicv_banner.jpg" class="thumbnail image-reference" title="Bicv banner">
-            <img src="bicv_banner.thumbnail.jpg" alt="Bicv banner"></a>
-</li></ul>
-</noscript>
 
         </div>
         <!--End of body content-->
@@ -91,7 +86,7 @@
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../assets/js/flowr.plugin.js"></script><script>
-jsonContent = [{"size": {"h": 215, "w": 720}, "title": "Bicv banner", "url": "bicv_banner.jpg", "url_thumb": "bicv_banner.thumbnail.jpg"}];
+jsonContent = [];
 $("#gallery_container").flowr({
         data : jsonContent,
         height : 180*.6,
