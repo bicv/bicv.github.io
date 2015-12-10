@@ -4,9 +4,10 @@
 .. tags:
 .. link:
 .. description: Welcome page!
-.. thumbnail:: ./images/bicv_banner.jpg
 
 A Wiley VCH book, edited by G. Cristóbal, L. Perrinet and M. Keil
+
+.. thumbnail:: ./images/bicv_banner.jpg
 
 As the state-of-the-art imaging technologies became more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic  fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few. Multidisciplinary inputs from other disciplines such as computational neuroscience, cognitive science, mathematics, physics and  biology will have a fundamental impact  in the progress of imaging and vision sciences. One of the advantages of the study of biological organisms is to devise very diﬀerent type of computational paradigms beyond the usual von Neumann e.g. by implementing a neural network with a high degree of local connectivity.
 
