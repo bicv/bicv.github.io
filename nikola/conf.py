@@ -128,9 +128,12 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+#         ("/archive.html", "Archive"),
+#         ("/categories/", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+        ('http://bicv.weebly.com/', 'More about the book'),#, 'icon-user'),
+        ('http://invibe.net/LaurentPerrinet/Publications/CristobalPerrinetKeil15bicv', 'Links'),#, 'icon-user'),
+        ('https://github.com/bicv', 'Github'),
     ),
 }
 
