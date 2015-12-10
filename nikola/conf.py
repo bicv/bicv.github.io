@@ -166,15 +166,18 @@ THEME_COLOR = '#5670d4'
 # just independent HTML pages.
 #
 
-POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-)
+# POSTS = (
+#     ("posts/*.rst", "posts", "post.tmpl"),
+#     ("posts/*.txt", "posts", "post.tmpl"),
+# )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.rst", "", "story.tmpl"),
+    ("stories/*.txt", "", "story.tmpl"),
 )
+POSTS = []
 
+# And to avoid a conflict because blogs try to generate /index.html
+INDEX_PATH = "blog"
 
 # Below this point, everything is optional
 
