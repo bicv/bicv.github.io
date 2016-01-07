@@ -48,12 +48,6 @@ the problems of modern imaging.
    presented in Fig. 22 of chapter [007\_voelkel]. Image credit:
    Wikipedia [fig:erbeni]
 
-   The *Erbenochile erbeni* eyes are distributed in a vertical
-   half-cylinder surface with 18 or 19 lenses per vertical row. Note the
-   striking similarity of this natural eye with the CurvACE sensor
-   presented in Fig. 22 of chapter [007\_voelkel]. Image credit:
-   Wikipedia [fig:erbeni]
-
 This book provides a comprehensive but rigorous reference in the area of
 biologically inspired computer vision modeling. Biologically-inspired
 vision, that is, the study of living beings’ visual systems, can be
