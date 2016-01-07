@@ -6,14 +6,14 @@
 .. description: a list of all chapters
 
 .. thumbnail:: ../images/mindmap.png
-   :width: 31 %
+   :width: 50 %
    :alt: book's mind-map
    :align: right
 
 Section I. Fundamentals
 -----------------------
 
-- Ch1. Introduction, G. Cristóbal, L. Perrinet and M. Keil
+- :doc:`toc`
 - Ch2. Bio-inspired vision, C. Posch
 - Ch3. Using HVS for Low-Level Image Processing, D. Aleysson and G. Nathalie
 - Ch4. Modeling natural image statistics for Computer Vision, H.E. Gerhard and M. Bethge
