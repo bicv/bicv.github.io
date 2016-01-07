@@ -13,7 +13,7 @@
 Section I. Fundamentals
 -----------------------
 
-- :doc:`toc`
+- :doc:`chap1`
 - Ch2. Bio-inspired vision, C. Posch
 - Ch3. Using HVS for Low-Level Image Processing, D. Aleysson and G. Nathalie
 - Ch4. Modeling natural image statistics for Computer Vision, H.E. Gerhard and M. Bethge
