@@ -39,7 +39,9 @@ von Neumann architecture, e.g. by implementing a neural network with a
 high degree of local connectivity, which may be more adapted to solve
 the problems of modern imaging.
 
-.. figure:: images/erbeni.jpg
+.. thumbnail:: ./images/erbeni.jpg
+   :width: 70 %
+   :align: center
    :alt: The *Erbenochile erbeni* eyes are distributed in a vertical
    half-cylinder surface with 18 or 19 lenses per vertical row. Note the
    striking similarity of this natural eye with the CurvACE sensor
