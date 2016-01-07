@@ -39,7 +39,7 @@ von Neumann architecture, e.g. by implementing a neural network with a
 high degree of local connectivity, which may be more adapted to solve
 the problems of modern imaging.
 
-.. thumbnail:: ./images/erbeni.jpg
+.. thumbnail:: ../images/erbeni.jpg
    :width: 70 %
    :align: center
 
