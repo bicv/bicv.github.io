@@ -171,11 +171,9 @@ different parts:
 
 -  Applications
 
-.. thumbnail:: ./images/mindmap.png
+.. thumbnail:: ../images/mindmap.png
    :width: 70 %
    :align: center
-   :alt: Mindmap of the book contents. Cross-links between chapters have
-   been indicated as thin lines. [fig:mindmap]
 
    Mindmap of the book contents. Cross-links between chapters have been
    indicated as thin lines. [fig:mindmap]
@@ -265,11 +263,9 @@ The structure of the book is as follows:
       (ViSTARS) oriented to visually guided navigation in a cluttered
       world.
 
-.. thumbnail:: ./images/tag.png
+.. thumbnail:: ../images/tag.png
    :width: 70 %
    :align: center
-   :alt: Tag cloud of the abstracts and table of contents of the book.
-   Credit: wordle.net [fig:tagcloud]
 
    Tag cloud of the abstracts and table of contents of the book. Credit:
    wordle.net [fig:tagcloud]
