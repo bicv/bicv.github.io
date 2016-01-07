@@ -9,12 +9,12 @@ A Wiley VCH book, edited by G. Cristóbal, L. Perrinet and M. Keil
 -----------------------------------------------------------------
 
 .. thumbnail:: ./images/bicv_banner.jpg
-   :width: 100 %
+   :width: 80 %
    :alt: book's banner
    :align: center
 
 .. thumbnail:: ./images/bicv_cover.jpg
-   :width: 40 %
+   :width: 30 %
    :alt: book's cover
    :align: right
 
