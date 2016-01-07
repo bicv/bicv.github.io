@@ -6,6 +6,9 @@
 .. description: a list of all chapters
 
 .. thumbnail:: ../images/mindmap.png
+   :scale: 50 %
+   :alt: book's mind-map
+   :align: right
 
 Section I. Fundamentals
 -----------------------
