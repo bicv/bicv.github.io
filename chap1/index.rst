@@ -65,7 +65,7 @@ the different chapters, this book covers a wide range of topics from
 fundamental to more specialized topics. Following the classical Marr’s
 premise for vision of three levels of analysis based on a computational
 level, an algorithmic level and a hardware implementation
-level :raw-latex:`\cite{marr_10}`, this book also analyzes the influence
+level, this book also analyzes the influence
 of these studies in the design of novel, more advanced vision sensors.
 In particular, the last section of the book provides an overview of few
 representative applications and current state of the art of the research
@@ -73,26 +73,26 @@ in this area.
 
 The scope of this book somewhat overlaps with a few other books
 published in this area, most of them corresponding to conference
-proceedings e.g. :raw-latex:`\cite{lee_00,bulthoff_02}`. Most recently,
+proceedings. Most recently,
 several special sessions on this same topic were organized at different
 workshops such as the “Biologically-consistent vision” in conjunction
 with the 2011 Computer Vision and Pattern Recognition Conference and the
 “Biological and Computer Vision Interfaces” in conjunction with the 2012
 European Conference on Computer Vision. The first monograph on this
 topic was published more than 20 years
-ago :raw-latex:`\cite{overington_92}` and therefore does not reflect the
+ago and therefore does not reflect the
 latest advances in the field. A very good reference in the field is the
-book by Frisby & Stone :raw-latex:`\cite{frisby_10}` that provides the
+book by Frisby & Stone that provides the
 foundations of the computational and physiological research on vision.
 Another relevant reference is the book by Petrou & Bharath although it
 is more focused toward specialized hardware both at low-power and high
-speed :raw-latex:`\cite{petrou_08}`. A more recent reference in the area
-is the book by Pomplum & Suzuki :raw-latex:`\cite{pomplun_12}` which is
+speed. A more recent reference in the area
+is the book by Pomplum & Suzuki which is
 more focused on specific aspects of visual function such as attention,
 binocularity or cortical structures. At the time of writing, it is worth
 to mention a special issue on bio-inspired imaging which highlights
 recent progress in the domain of vision and biological
-optics :raw-latex:`\cite{larkin_14}`. As a consequence, this book is
+optics. As a consequence, this book is
 valuable for both undergraduate and graduate students but also for
 specialized researchers by tackling information that is usually spread
 out in different sources in a single and comprehensive monograph.
@@ -125,7 +125,7 @@ the animal to see not only 360 degrees on the horizontal plane but also
 to cover a significant vertical area. Even more intriguing is the fact
 that their eyes have eye shades and blocking glare which suggest that
 trilobites were diurnal and not nocturnal (see
-Fig. [fig:erbeni]) :raw-latex:`\cite{fortey_03}`. In some cases the
+Fig. [fig:erbeni]). In some cases the
 visual system of some organisms surpasses the human visual system’
 performance. As such, it becomes clear that a clear advantage of living
 organisms resides in evolution and natural selection. This led to
@@ -142,21 +142,21 @@ detection of polarized light and circular polarized light. Inspired by
 the mantis shrimp’s compound eye and polarized vision, an international
 team of researchers have recently built a miniature sensor that can
 detect subtle differences in early stage cancerous cells from in vivo
-endoscopy of mouse colon :raw-latex:`\cite{york_14}`. The eyes of other
+endoscopy of mouse colon. The eyes of other
 animals use other strategies to solve predatory tasks. The jumping
 spider use special staircase-shaped retinas to produce sharp and out-of
 focus images simultaneously (see right cover image of this book). By
 comparing the focused and defocused images the spider can estimate depth
 through unmoving eyes. Nagata et al have developed a mathematical model
 that predicts the accuracy of the jumps for different
-wavelengths :raw-latex:`\cite{nagata_12}`. These recent promising
+wavelengths. These recent promising
 results could open up new avenues both in mathematical modeling and
 signal processing for more challenging applications. In the context of
-animal vision studies, Land & Nilsson’s book :raw-latex:`\cite{land_12}`
+animal vision studies, Land & Nilsson’s book
 provides a fascinating comparative account of the evolution and function
 of animal eyes with emphasis on the optical system description. Also, a
 very recent book on the same topic is Cronin et al’s
-book :raw-latex:`\cite{cronin_14}`. As a consequence,
+book. As a consequence,
 biologically-inspired computer vision is not only about mimicking the
 structure of animals’ visual systems, but to gain insights from the vast
 range of different solutions that emerged through natural selection to
@@ -176,7 +176,9 @@ different parts:
 
 -  Applications
 
-.. figure:: images/mindmap.png
+.. thumbnail:: ./images/mindmap.png
+   :width: 70 %
+   :align: center
    :alt: Mindmap of the book contents. Cross-links between chapters have
    been indicated as thin lines. [fig:mindmap]
 
@@ -246,7 +248,7 @@ The structure of the book is as follows:
 
    -  Chapter 12 describes cortical models for image recognition mainly
       based on the HMAX architecture of Riesenhuber and
-      Poggio :raw-latex:`\cite{riesen_99}`.
+      Poggio.
 
    -  Chapter 13 describes how bio-inspired approaches may be applied to
       computer vision problems using predictive coding schemes focusing
@@ -268,7 +270,9 @@ The structure of the book is as follows:
       (ViSTARS) oriented to visually guided navigation in a cluttered
       world.
 
-.. figure:: images/tag.png
+.. thumbnail:: ./images/tag.png
+   :width: 70 %
+   :align: center
    :alt: Tag cloud of the abstracts and table of contents of the book.
    Credit: wordle.net [fig:tagcloud]
 
