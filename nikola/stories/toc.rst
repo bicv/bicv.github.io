@@ -6,7 +6,7 @@
 .. description: a list of all chapters
 
 .. thumbnail:: ../images/mindmap.png
-   :scale: 50 %
+   :width: 31 %
    :alt: book's mind-map
    :align: right
 
