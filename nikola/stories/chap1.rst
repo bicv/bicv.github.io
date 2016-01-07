@@ -42,7 +42,8 @@ the problems of modern imaging.
 .. thumbnail:: ./images/erbeni.jpg
    :width: 70 %
    :align: center
-   :alt: The *Erbenochile erbeni* eyes are distributed in a vertical
+
+   The *Erbenochile erbeni* eyes are distributed in a vertical
    half-cylinder surface with 18 or 19 lenses per vertical row. Note the
    striking similarity of this natural eye with the CurvACE sensor
    presented in Fig. 22 of chapter [007\_voelkel]. Image credit:
