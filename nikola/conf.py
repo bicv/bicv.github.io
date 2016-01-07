@@ -128,7 +128,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-         ("/toc.html", "Table of Contents"),
+         ("/toc/index.html", "Table of Contents"),
 #         ("/archive.html", "Archive"),
 #         ("/categories/", "Tags"),
 #         ("/rss.xml", "RSS feed"),
