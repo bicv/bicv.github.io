@@ -184,7 +184,7 @@ transfer of ideas from biology to computer vision can be done in
 practice. Fig. [fig:tagcloud] shows a picture of a tag cloud that has
 been generated from the table of contents of the book.
 
-The structure of the book is as follows:
+The structure of the book is as follows (see also the :doc:`toc`):
 
 -  Section 1: Fundamentals.
 
