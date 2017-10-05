@@ -280,7 +280,7 @@ availability of massive computing power (e.g. cloud computing) and high
 performant computing power (GPU, FPGA, etc). This has been illustrated
 in the chapters [016\_oskarsson, 017\_tim\_tiedemann] of this book.
 
-For the reader’s convenience, there is an _accompanying website with
+For the reader’s convenience, there is an `accompanying website with
 supplementary material <http://invibe.net/LaurentPerrinet/Publications/CristobalPerrinetKeil15bicv>`_. It contains selected MATLAB
 and Python codes, testing images and errata.
 
