@@ -15,8 +15,8 @@ Section I. Fundamentals
 
 - :doc:`chap1`
 - Ch2. Bio-inspired vision, C. Posch
-- Ch3. Using HVS for Low-Level Image Processing, D. Aleysson and G. Nathalie
-- Ch4. Modeling natural image statistics for Computer Vision, H.E. Gerhard and M. Bethge
+- Ch3. `Using HVS for Low-Level Image Processing <http://david.alleysson.free.fr/Publications/AlleyssonGuyader2008main.pdf>`_, D. Aleysson and G. Nathalie
+- Ch4. `Modeling natural image statistics for Computer Vision <http://theis.io/media/publications/GerhardTheisBethge_Review.pdf>`_, H.E. Gerhard and M. Bethge
 - Ch5. Perceptual Psychophysics, A. Párraga
 
 Section II. Optics and Sensing
@@ -31,16 +31,15 @@ Section III. Modeling
 
 - Ch9. Probabilistic Inference and Bayesian Priors in Visual Perception, G. Sotiropoulos and P. Series
 - Ch10. From Neuronal Models to Neuronal Dynamics and Image Processing, M. Keil
-- Ch11. Computational models of Visual Attention and Applications, O. LeMeur and M. Mancas
-- Ch12. Motion Detection and Human Behaviour, A. Montagnini, L. Perrinet and G. S. Masson
+- Ch11. `Computational models of Visual Attention and Applications <http://invibe.net/LaurentPerrinet/Publications/CristobalPerrinetKeil15bicv?action=AttachFile&do=view&target=chap11_lemeur.pdf>`_, O. LeMeur and M. Mancas
+- Ch12. `Visual Motion Detection and Human Behaviour <https://arxiv.org/pdf/1611.07831.pdf>`_, A. Montagnini, L. Perrinet and G. S. Masson
 - Ch13. Cortical networks of visual recognition, M. Cord, C. Theriault and N. Thome
-- Ch14. Sparse Models for Computer Vision, L. Perrinet
-- Ch15. Biologically Inspired Keypoint Detectors, A. Alahi, G. Goetz and E. D'Angelo
+- Ch14. `Sparse Models for Computer Vision <https://arxiv.org/pdf/1701.06859.pdf>`_, L. Perrinet
+- Ch15. `Biologically Inspired Keypoint Detectors <http://www.ivpe.com/downloads/DraftBookChapterAlahi.pdf>`_, A. Alahi, G. Goetz and E. D'Angelo
 
 Section IV. Applications
 ------------------------
 
 - Ch16. Nightvision based on a biological model. M. Oskarsoon, H. Malm and E. Warrant
 - Ch17. Bio-inspired Motion Detection based on a FPGA platform. T. Köhler
-- Ch18. Visual Navigation in a Cluttered World, N.A. Browning and F. Raudies
-
+- Ch18. `Visual Navigation in a Cluttered World <http://cns.bu.edu/~fraudies/Publications/Publications.html>`_, N.A. Browning and F. Raudies
