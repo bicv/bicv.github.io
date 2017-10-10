@@ -17,7 +17,7 @@ Section I. Fundamentals
 - Ch2. Bio-inspired vision, C. Posch
 - Ch3. `Using HVS for Low-Level Image Processing <http://david.alleysson.free.fr/Publications/AlleyssonGuyader2008main.pdf>`_, D. Aleysson and G. Nathalie
 - Ch4. `Modeling natural image statistics for Computer Vision <http://theis.io/media/publications/GerhardTheisBethge_Review.pdf>`_, H.E. Gerhard and M. Bethge
-- Ch5. Perceptual Psychophysics, A. Párraga
+- Ch5. `Perceptual Psychophysics <https://github.com/bicv/bicv.github.io/raw/master/nikola/files/Parraga%20Perceptual%20Psychophysics%20Chapter%204.pdf>`_, C. Alejandro Párraga
 
 Section II. Optics and Sensing
 ------------------------------
