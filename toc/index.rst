@@ -24,7 +24,7 @@ Section II. Optics and Sensing
 
 - Ch6. Bioinspired Optical Imaging, M. Sarkar
 - Ch7. Biomimetic vision systems, R. Voelkel
-- Ch8. Plenoptic sensors, F. Pérez
+- Ch8. `Plenoptic sensors <http://fdoperez.webs.ull.es/doc/plenoptic.pdf>`_, F. Pérez
 
 Section III. Modeling
 ---------------------
