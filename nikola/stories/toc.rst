@@ -30,7 +30,7 @@ Section III. Modeling
 ---------------------
 
 - Ch9. `Probabilistic Inference and Bayesian Priors in Visual Perception <https://homepages.inf.ed.ac.uk/pseries/Peg_files/Chapter9_SotiropoulosSeries.pdf>`_, G. Sotiropoulos and P. Series
-- Ch10. From Neuronal Models to Neuronal Dynamics and Image Processing, M. Keil
+- Ch10. `From Neuronal Models to Neuronal Dynamics and Image Processing <https://arxiv.org/pdf/1801.08585.pdf>`_, M. Keil
 - Ch11. `Computational models of Visual Attention and Applications <http://invibe.net/LaurentPerrinet/Publications/CristobalPerrinetKeil15bicv?action=AttachFile&do=view&target=chap11_lemeur.pdf>`_, O. LeMeur and M. Mancas
 - Ch12. `Visual Motion Detection and Human Behaviour <https://arxiv.org/pdf/1611.07831.pdf>`_, A. Montagnini, L. Perrinet and G. S. Masson
 - Ch13. Cortical networks of visual recognition, M. Cord, C. Theriault and N. Thome
