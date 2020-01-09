@@ -42,4 +42,4 @@ Section IV. Applications
 
 - Ch16. Nightvision based on a biological model. M. Oskarsoon, H. Malm and E. Warrant
 - Ch17. Bio-inspired Motion Detection based on a FPGA platform. T. Köhler
-- Ch18. `Visual Navigation in a Cluttered World <http://cns.bu.edu/~fraudies/Publications/Publications.html>`_, N.A. Browning and F. Raudies
+- Ch18. `Visual Navigation in a Cluttered World <https://www.researchgate.net/profile/N_Andrew_Browning/publication/282660410_Visual_Navigation_in_a_Cluttered_World/links/59f4cc910f7e9b553ebbe7d5/Visual-Navigation-in-a-Cluttered-World.pdf>`_, N.A. Browning and F. Raudies
