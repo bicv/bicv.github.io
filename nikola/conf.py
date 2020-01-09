@@ -133,7 +133,7 @@ NAVIGATION_LINKS = {
 #         ("/categories/", "Tags"),
 #         ("/rss.xml", "RSS feed"),
         # ('http://bicv.weebly.com/', 'More about the book'),#, 'icon-user'),
-        ('http://invibe.net/LaurentPerrinet/Publications/CristobalPerrinetKeil15bicv', 'Links'),#, 'icon-user'),
+        ('https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv', 'Links'),#, 'icon-user'),
         ('https://github.com/bicv', 'BICV projects on Github'),
     ),
 }
