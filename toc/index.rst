@@ -13,6 +13,7 @@
 Section I. Fundamentals
 -----------------------
 
+- Frontmatter and `foreword <https://github.com/bicv/bicv.github.io/raw/master/nikola/files/FrontMatter_foreword.pdf>`_, by Jeanny Herault
 - :doc:`chap1`
 - Ch2. Bio-inspired vision, C. Posch
 - Ch3. `Using HVS for Low-Level Image Processing <http://david.alleysson.free.fr/Publications/AlleyssonGuyader2008main.pdf>`_, D. Aleysson and G. Nathalie
